@@ -12,7 +12,8 @@ Here we have taken the price of google stock dataset
 
 ## Neural Network Model
 
-![output](exp5.png)
+![exp5](https://github.com/Guru-Guna/rnn-stock-price-prediction/assets/93427255/9552f796-bbfb-4cb4-b740-bc3cddce8cf5)
+
 
 ## DESIGN STEPS
 
@@ -120,10 +121,13 @@ plt.show()
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
+![Uploading out1.png…]()
 
-![output](1.png)
+
+
 ### Mean Square Error
+![out2](https://github.com/Guru-Guna/rnn-stock-price-prediction/assets/93427255/66c4ddad-2324-4741-af98-52c51c3ad025)
 
-![output](2.png)
+
 ## RESULT
 Thus, we have successfully created a Simple RNN model for Stock Price Prediction.
