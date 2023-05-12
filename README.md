@@ -42,8 +42,8 @@ Make Predictions and plot the graph with the Actual and Predicted values.
 
 ## PROGRAM
 
-                  NAME   : EZHIL  MATHI.R
-                  REG NO : 212221230026
+Name  : Gunaseelan G
+Reg no:212221230031
  
 ```python
 import numpy as np
@@ -121,7 +121,8 @@ plt.show()
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
-![Uploading out1.png…]()
+
+![out1](https://github.com/Guru-Guna/rnn-stock-price-prediction/assets/93427255/b5999dfc-7e77-494d-8927-0490b2db5710)
 
 
 
